@@ -2,6 +2,14 @@
 
 Este repositório contém notebooks para treinar modelos YOLOv8 de detecção de objetos em canteiros de obras, utilizando diferentes estratégias de dataset e técnicas de data augmentation.
 
+## Datasets utilizados
+
+##### Imagens sintéticas
+https://drive.google.com/drive/folders/1olY2FIPhVUBlvh5Rw_1fJ0fZsc9kvpnP?usp=sharing
+
+##### Imagens reais
+https://huggingface.co/datasets/LouisChen15/ConstructionSite
+
 ## Objetivo
 
 Treinar modelos de detecção para identificar dois tipos de objetos em canteiros de obras:
